@@ -1,15 +1,16 @@
 
 
-# 闪闪使用指南
+# 清阳使用指南
 
-闪闪，成长中的 shaper 。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 
+清阳的[故事]()
 
-希望这份使用指南助你与她共创愉快：）
+希望这份使用指南助你与他共创愉快：）
 
 
-- Blog：http://ishanshan.top/
-- GitHub ：[@ishanshan](https://github.com/ishanshan/)
-- Email：ishanshan.huang@gmail#com
+- Blog：https://zhongweili.github.io
+- GitHub：[@zhongweili](https://github.com/zhongweili/)
+- Email：lizhongwei.nkcs@gmail#com
+- 微信公众号：随流逐波（sui_liu） 
 
 内容概览：
 
