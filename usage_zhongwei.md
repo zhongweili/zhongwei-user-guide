@@ -1,10 +1,10 @@
-# 清阳使用指南
+# zhongwei使用指南
 
-清阳的[故事]()（TODO）
+zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 
 希望这份使用指南助你与他共创愉快：）
 
-- Blog：[https://zhongweili.github.io](https://zhongweili.github.io/)
+- Blog：[lizhongwei.me](http://lizhongwei.me)
 - GitHub：[@zhongweili](https://github.com/zhongweili/)
 - Email：lizhongwei.nkcs@gmail#com
 - 微信公众号：随流逐波（sui_liu）
@@ -93,4 +93,5 @@
 
 ## CHANGELOG
 
-- 20180410 清阳创建
+- 20180410 zhongwei创建
+- 20180514 zhongwei add xiaozhuan, modify blog 
