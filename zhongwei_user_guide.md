@@ -37,7 +37,7 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 - 较擅长：
   - 软件研发（已入程序员大坑，恶补技术中）
   - 项目管理（大学期间带小团队做项目积累了不少经验）
-  - 信息分析（有意识构建自己的信息食谱）
+  - 信息分析（有意识构建自己的[信息食谱](https://github.com/zhongweili/Survive/blob/master/info_diet.md)）
   - 产品分析（长期关注互联网产品体验）
 - 在思索：
   - 信息时代如何实现个人价值
@@ -112,4 +112,4 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 - 20180410 zhongwei创建
 - 20180514 zhongwei add xiaozhuan, modify blog 
 - 20180924 update about work
-- 20180928 update structure
+- 20180928 update structure, add description about skill
