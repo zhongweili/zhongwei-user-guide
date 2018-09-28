@@ -20,12 +20,12 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
       - [communication](#communication)
       - [schedule](#schedule)
       - [feature](#feature)
-    - [ideal work](#ideal work)
+    - [ideal work](#ideal-work)
   - [life](#life) 
     - [basic](#basic)
     - [habits](#habits)
     - [play](#play)
-    - [ideal life](#ideal life)
+    - [ideal life](#ideal-life)
   - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -35,10 +35,10 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 ### skill
 
 - 较擅长：
-  - 软件研发
-  - 信息获取
-  - 项目管理
-  - 产品分析
+  - 软件研发（已入程序员大坑，恶补技术中）
+  - 项目管理（大学期间带小团队做项目积累了不少经验）
+  - 信息分析（有意识构建自己的信息食谱）
+  - 产品分析（长期关注互联网产品体验）
 - 在思索：
   - 信息时代如何实现个人价值
   - 如何降低精神熵构建自我内心秩序
@@ -50,13 +50,16 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 
 #### communication
 
-- IM工具回复信息较慢，紧急事情请打电话找他。
-- 微信群大多关闭通知，群内请@他。
+- 微信群、钉钉大群多数关闭通知，群内请@他。
 - 比较在意沟通成本。
+- IM工具回复信息较慢，紧急事情请打电话找他。
+- 讨厌IM工具来回传文件
+- 会定期查看邮箱
 
 #### schedule
 
-- 追求简单生活，目前一般 12:00 睡觉 7:30 起床，正负浮动半小时。
+- 工作日一般 12:00 睡觉 7:30 起床，正负浮动半小时。
+- 周末除值班外一般关闭工作通知。
 
 #### feature
 
