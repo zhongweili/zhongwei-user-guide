@@ -14,19 +14,25 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [skill](#skill)
-  - [collaboration](#collaboration)
-    - [communication](#communication)
-    - [schedule](#schedule)
-    - [feature](#feature)
-    - [favorite team environment](#favorite-team-environment)
-  - [life](#life)
-  - [play](#play)
+  - [work](#work)
+    - [skill](#skill)
+    - [collaboration](#collaboration)
+      - [communication](#communication)
+      - [schedule](#schedule)
+      - [feature](#feature)
+    - [ideal work](#ideal work)
+  - [life](#life) 
+    - [basic](#basic)
+    - [habits](#habits)
+    - [play](#play)
+    - [ideal life](#ideal life)
   - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## skill
+## work
+
+### skill
 
 - 较擅长：
   - 软件研发
@@ -39,20 +45,20 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
   - 如何有效利用认知盈余
   - 互联网产品的发展方向与社会责任
   - 现实世界与虚拟世界的关联和映照
+  
+### collaboration
 
-## collaboration
-
-### communication
+#### communication
 
 - IM工具回复信息较慢，紧急事情请打电话找他。
 - 微信群大多关闭通知，群内请@他。
 - 比较在意沟通成本。
 
-### schedule
+#### schedule
 
 - 追求简单生活，目前一般 12:00 睡觉 7:30 起床，正负浮动半小时。
 
-### feature
+#### feature
 
 - 善于统筹全局，也能把控细节。常能发现各环节疏漏之处。
 - 喜欢建立规则、机制，做事情常考虑未来如何复用。
@@ -62,26 +68,28 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 - 脾气好，不怕批评和责骂。
 - 讨厌没有修养的行为，比如随地吐痰、随地扔垃圾、占用公共空间后不收拾等。
 
-### favorite team environment
+### ideal work
 
 - [理想工作的样子](https://github.com/zhongweili/worksmarter/blob/master/CONTENT/HbIdealWork.md)
 
+
 ## life
+
+### basic
 
 - 穿衣朴素，但求整洁。
 - 口味清淡，关注健康胜过味道。
 - 喜欢住近一些，不喜欢太长通勤时间。
 - 短途喜欢走路，长途公共交通优先。
-- 对未来生活的构想（TODO）
-- 早餐可能省，午餐晚餐必须吃。
-- 不抽烟，不醉酒。
-- 不喜太多人聚会。
+
+### habits
+
 - 有些持续了好久的习惯：
   - 每周羽毛球运动，2015 年 9 月至今
   - 用 WorkFlowy 记工作日志， 2018 年 2 月至今
   - 每晚阅读，2018 年 7 月至今
 
-## play
+### play
 
 - 喜欢的运动：羽毛球、乒乓球、滑冰、滑雪、跳绳、爬山。
 - 会一点运动：篮球、足球、排球、攀岩。
@@ -92,10 +100,13 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 - 乐于独处。
 - 喜欢电影和书（见[豆瓣](https://www.douban.com/people/65970577/)）
 
+### ideal life
+
+- 对未来生活的构想（TODO）
+
 ## CHANGELOG
 
 - 20180410 zhongwei创建
 - 20180514 zhongwei add xiaozhuan, modify blog 
 - 20180924 update about work
-
-- 口味清淡，关注健康胜过味道。
+- 20180928 update structure
