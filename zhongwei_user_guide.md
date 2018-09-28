@@ -1,13 +1,13 @@
 # zhongwei使用指南
 
-zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
-
 希望这份使用指南助你与他共创愉快：）
 
 - Blog：[lizhongwei.me](http://lizhongwei.me)
 - GitHub：[@zhongweili](https://github.com/zhongweili/)
 - Email：lizhongwei.nkcs@gmail#com
 - 微信公众号：随流逐波（sui_liu）
+
+zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 
 内容概览：
 
