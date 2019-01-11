@@ -7,7 +7,7 @@
 - Email：lizhongwei.nkcs@gmail#com
 - 微信公众号：随流逐波（sui_liu）
 
-zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
+他的[2018年](https://mp.weixin.qq.com/s/OssVRE-ZSvHne3AkXClsiA)
 
 内容概览：
 
@@ -45,6 +45,7 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
   - 如何有效利用认知盈余
   - 互联网产品的发展方向与社会责任
   - 现实世界与虚拟世界的关联和映照
+  - 怎样成为文明社会中的自由人
   
 ### collaboration
 
@@ -88,18 +89,17 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 ### habits
 
 - 有些持续了好久的习惯：
-  - 每周羽毛球运动，2015 年 9 月至今
+  - 每周羽毛球运动，2015 年 9 月至 2018 年 9 月
   - 用 WorkFlowy 记工作日志， 2018 年 2 月至今
   - 每晚阅读，2018 年 7 月至今
 
 ### play
 
-- 喜欢的运动：羽毛球、乒乓球、滑冰、滑雪、跳绳、爬山。
-- 会一点运动：篮球、足球、排球、攀岩。
+- 喜欢的运动：羽毛球、乒乓球、滑冰、爬山。
+- 会一点运动：篮球、足球、攀岩。
 - 喜欢棋牌：中国象棋、围棋、扑克牌。
-- 喜欢各种桌游。
+- 喜欢各种桌游，但玩的不多。
 - 喜欢结交成长心态的朋友。
-- 不会唱歌。
 - 乐于独处。
 - 喜欢电影和书（见[豆瓣](https://www.douban.com/people/65970577/)）
 
@@ -109,7 +109,8 @@ zhongwei的[故事](http://lizhongwei.me/xiao-zhuan/)
 
 ## CHANGELOG
 
-- 20180410 zhongwei创建
+- 20180410 zhongwei init
 - 20180514 zhongwei add xiaozhuan, modify blog 
 - 20180924 update about work
 - 20180928 update structure, add description about skill
+- 20190111 update in new year
