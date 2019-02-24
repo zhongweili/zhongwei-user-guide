@@ -7,7 +7,7 @@
 - Email：lizhongwei.nkcs@gmail#com
 - 微信公众号：随流逐波（sui_liu）
 
-他的[2018年](https://mp.weixin.qq.com/s/OssVRE-ZSvHne3AkXClsiA)
+他的[故事](http://lizhongwei.me/xiao-zhuan/)
 
 内容概览：
 
@@ -92,6 +92,8 @@
   - 每周羽毛球运动，2015 年 9 月至 2018 年 9 月
   - 用 WorkFlowy 记工作日志， 2018 年 2 月至今
   - 每晚阅读，2018 年 7 月至今
+  - 每周健身房锻炼，2018 年 9 月至 2019 年 2 月
+  - 每天学一点英语，2019 年 1 月至今
 
 ### play
 
@@ -114,3 +116,4 @@
 - 20180924 update about work
 - 20180928 update structure, add description about skill
 - 20190111 update in new year
+- 20190224 update habits
