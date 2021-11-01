@@ -2,12 +2,12 @@
 
 希望这份使用指南助你与他共创愉快：）
 
-- Blog：[lizhongwei.me](http://lizhongwei.me)
+- ~~Blog：[lizhongwei.me](http://lizhongwei.me)（域名过期...)~~
 - GitHub：[@zhongweili](https://github.com/zhongweili/)
 - Email：lizhongwei.nkcs@gmail#com
 - 微信公众号：随流逐波（sui_liu）
 
-他的[故事](http://lizhongwei.me/xiao-zhuan/)
+他的[故事](https://github.com/zhongweili/bookwriter005/blob/master/ch0/xiaozhuan.md)
 
 内容概览：
 
@@ -53,7 +53,6 @@
 
 - 微信群、钉钉大群多数关闭通知，群内请@他。
 - 比较在意沟通成本。
-- IM工具回复信息较慢，紧急事情请打电话找他。
 - 讨厌IM工具来回传文件
 - 会定期查看邮箱
 
@@ -91,16 +90,17 @@
 - 有些持续了好久的习惯：
   - 每周羽毛球运动，2015 年 9 月至 2018 年 9 月
   - 用 WorkFlowy 记工作日志， 2018 年 2 月至今
-  - 每晚阅读，2018 年 7 月至今（断断续续...）
+  - 每周阅读，2018 年 7 月至今（断断续续...）
   - 每周健身房锻炼，2018 年 9 月至 2019 年 2 月
   - 每天学一点英语，2019 年 1 月至 2019 年 4 月
   - 工作日每天户外跑步，2019 年 5 月至 2019 年 9 月
-  - 每月写信，2019 年 5 月至今
+  - 每月写信，2019 年 5 月至 2020 年 12 月
+  - 每周做饭，2021 年 1 月至今
 
 ### play
 
 - 喜欢的运动：羽毛球、乒乓球、滑冰、爬山。
-- 会一点运动：篮球、足球、攀岩。
+- 会一点运动：篮球、足球。
 - 喜欢棋牌：中国象棋、围棋、扑克牌。
 - 喜欢各种桌游，但玩的不多。
 - 喜欢结交成长心态的朋友。
@@ -120,3 +120,4 @@
 - 20190111 update in new year
 - 20190224 update habits
 - 20191008 update habits
+- 20211101 update habits
